@@ -17,6 +17,7 @@ public class Hackerrank {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Just a small piece of code to check if Git is working");
+        System.err.println("Hello from the other side");
     }
     
 }
